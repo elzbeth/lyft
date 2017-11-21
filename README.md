@@ -6,12 +6,6 @@
 
 Replicar el sitio de ![Lyft Website](docs/fullpage.png)
 
-## Objetivo
-
-El reto consiste en replicar el sitio de **Lyft**, este será el resultado
-a lograr:
-
-![Lyft Website](docs/fullpage.png)
 
 ## Flujo de trabajo:
 
